@@ -7,3 +7,4 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 # yolo3-tf-replicates
+![](https://github.com/NoMorningstar/yolo3-tf-replicates/blob/master/output.gif)
